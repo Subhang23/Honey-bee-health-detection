@@ -23,6 +23,9 @@ jupyterlab==2.2.6
 Keras-Preprocessing==1.1.2
 MarkupSafe==1.1.1
 mistune==0.8.4
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
 numpy==1.18.5
 oauthlib==3.1.0
 olefile==0.46
@@ -33,7 +36,7 @@ pyasn1-modules==0.2.8
 pyparsing==2.4.7
 pyreadline==2.1
 python-dateutil==2.8.1
-pywin32==227
+pypiwin32==223
 pywinpty==0.5.7
 PyYAML==5.3.1
 pyzmq==20.0.0
