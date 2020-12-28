@@ -35,7 +35,7 @@ pyasn1-modules==0.2.8
 pyparsing==2.4.7
 pyreadline==2.1
 python-dateutil==2.8.1
-pypiwin32==223
+pypiwin32==220
 pywinpty==0.5.7
 PyYAML==5.3.1
 pyzmq==20.0.0
